@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  resources :posts
+
+  constraints ->(request) { request.env["warden"].user&.admin?  } do
+    mount Avo::Engine, at: Avo.configuration.root_path
+  end
+  
   root to: 'home#index'
   get "home/index"
   devise_for :users
