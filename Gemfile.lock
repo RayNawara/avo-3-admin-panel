@@ -81,7 +81,7 @@ GEM
     addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
     ast (2.4.2)
-    avo (3.31.1)
+    avo (3.31.2)
       actionview (>= 6.1)
       active_link_to
       activerecord (>= 6.1)
@@ -358,7 +358,7 @@ GEM
     unicode-emoji (4.0.4)
     uri (1.1.1)
     useragent (0.16.11)
-    view_component (4.7.0)
+    view_component (4.8.0)
       actionview (>= 7.1.0)
       activesupport (>= 7.1.0)
       concurrent-ruby (~> 1)
