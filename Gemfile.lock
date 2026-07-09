@@ -81,7 +81,7 @@ GEM
     addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
     ast (2.4.2)
-    avo (4.0.9)
+    avo (4.0.10)
       actionview (>= 6.1)
       active_link_to
       activerecord (>= 6.1)
