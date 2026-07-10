@@ -81,7 +81,7 @@ GEM
     addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
     ast (2.4.2)
-    avo (4.0.10)
+    avo (4.0.11)
       actionview (>= 6.1)
       active_link_to
       activerecord (>= 6.1)
@@ -204,7 +204,7 @@ GEM
     nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     orm_adapter (0.5.0)
-    pagy (43.5.6)
+    pagy (43.6.0)
       json
       uri
       yaml
