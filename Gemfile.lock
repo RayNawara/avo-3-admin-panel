@@ -81,7 +81,7 @@ GEM
     addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
     ast (2.4.2)
-    avo (4.2.7)
+    avo (4.2.8)
       actionview (>= 6.1)
       active_link_to
       activerecord (>= 6.1)
@@ -97,7 +97,7 @@ GEM
       turbo_power (>= 0.6.0)
       view_component (>= 3.7.0)
       zeitwerk (>= 2.6.12)
-    avo-icons (0.2.1)
+    avo-icons (0.2.2)
       inline_svg
     awesome_print (1.9.2)
     base64 (0.3.0)
@@ -273,7 +273,7 @@ GEM
       logger
       prism (>= 1.6.0)
       tsort
-    rdoc (8.0.0)
+    rdoc (8.1.0)
       erb
       prism (>= 1.6.0)
       rbs (>= 4.0.0)
